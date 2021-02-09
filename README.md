@@ -10,7 +10,4 @@ The data is fetched from these sites and a new csv file is created out of it and
 Modules used:
 Several python modules are used out of which - Pandas and Matplotlib are majorly used.
 
-NOTE:
-  At the end, I was trying to predict some data using regression models and machine learning but got stuck with installing some packages/modules on my machine which are required for machine learning algorithms. 
-  If anybody interested in contributing with it, then it'll be appreciated.
   Thank you.
