@@ -1,5 +1,5 @@
-# Data-analysis-covid-19
-Data analysis project on Covid-19 data (as of till Jan 2021)
+# COVID-19 DATA ANALYSIS & PREDICTION
+## Data analysis project on Covid-19 data (as of till Jan 2021)
 
 PROCEDURE :
 The covid data required for this analysing  project is downloaded from the sites given below
